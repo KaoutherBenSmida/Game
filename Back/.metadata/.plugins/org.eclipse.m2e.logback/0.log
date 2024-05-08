@@ -1,0 +1,5 @@
+2024-05-08 15:41:38,495 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-08 15:42:00,525 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: paperrockscissors.game:paperrockscissors:0.0.1-SNAPSHOT @ C:\Users\Kaouthar Ben Smida\Documents\Game\Back\paperrockscissors\pom.xml.
+2024-05-08 15:42:02,442 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-08 15:42:02,460 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-08 15:42:02,467 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Kaouthar Ben Smida\Documents\Game\Back\paperrockscissors\src\test\resources

@@ -1,0 +1,68 @@
+table {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+
+}
+
+button {
+    border: none;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    cursor: pointer;
+}
+
+.computerMove {
+    width: 50px;
+    height: 250px;
+    width: 250px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+messageoutput {
+    width: 50%;
+    padding: 10px;
+}
+
+.centered-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.spacer {
+    flex: 1;
+}
+
+.element {
+    padding: 10px;
+}
+
+.computerMovePng {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.mat-icon {
+    height: 50px;
+    width: 50px;
+}
+
+.material-icons {
+    font-size: 50px;
+}

@@ -1,0 +1,37 @@
+.outer-div {
+    text-align: center;
+    height: 685px;
+    align-items: center;
+}
+
+.get-started-button {
+    position: fixed;
+    bottom: 0;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+/* .get-started-button:hover {
+    background-color: #b3008c;
+} */
+
+.floating-buttons {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+  }
+  
+  .floating-buttons button {
+    display: block;
+    margin-bottom: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .floating-buttons button:hover {
+    background-color: #0056b3;
+  }

@@ -1,0 +1,67 @@
+{
+  "hash": "81eb07b3",
+  "configHash": "0573bb98",
+  "lockfileHash": "ff008463",
+  "browserHash": "3bc31e67",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "20b8b6b3",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "3c7b6a3d",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "b28ce048",
+      "needsInterop": false
+    },
+    "@angular/material/icon": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/icon.mjs",
+      "file": "@angular_material_icon.js",
+      "fileHash": "23f1ad76",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "d66a452e",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations/async": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
+      "file": "@angular_platform-browser_animations_async.js",
+      "fileHash": "a508f841",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "9d54894f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-YSPVPMS7": {
+      "file": "chunk-YSPVPMS7.js"
+    },
+    "chunk-DM6PXSA2": {
+      "file": "chunk-DM6PXSA2.js"
+    },
+    "browser-LFLR4WWQ": {
+      "file": "browser-LFLR4WWQ.js"
+    },
+    "chunk-XTKCXWJI": {
+      "file": "chunk-XTKCXWJI.js"
+    },
+    "chunk-ILVC4LPL": {
+      "file": "chunk-ILVC4LPL.js"
+    }
+  }
+}

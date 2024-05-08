@@ -1,0 +1,28 @@
+<script src="script.js"></script>
+
+<div class="centered-div">
+    <div class="container" *ngIf="play==true">
+        <button (click)="move(1)">
+            <img src="assets/resources/img/paper.png" width="250px" height="250px" />
+        </button>
+        <button (click)="move(2)">
+            <img src="assets/resources/img/rock.png" width="250px" height="250px" />
+        </button>
+        <button (click)="move(3)">
+            <img src="assets/resources/img/scissors.png" width="250px" height="250px" />
+        </button>
+    </div>
+
+    <div class="computerMove" *ngIf="computermove">
+        <img *ngIf="computermove" class="computerMove" src="assets/resources/img/computermove.gif" />
+
+    </div>
+    <div *ngIf="computerMovePng" class="computerMovePng">
+        <h1 class="messageoutput" [style.color]="color">{{message}}</h1>
+        <img class="computerMove" src={{urlcomputermove}} />
+        <a href="" onclick="reload()">
+            <mat-icon>refresh</mat-icon>
+        </a>
+
+    </div>
+</div>
